@@ -2,7 +2,7 @@
 
 Tests with some parallel algorithms by Bartlomiej Filipek
 
-Modified for Linux and macOS by Kenji Rikitake
+Modified for Linux by Kenji Rikitake
 
 ## Original repository
 
