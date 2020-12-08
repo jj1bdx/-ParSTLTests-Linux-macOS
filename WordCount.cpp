@@ -1,4 +1,4 @@
-﻿// based on samples from "C++17 Parallel Algorithms" at CppCon 2016
+// based on samples from "C++17 Parallel Algorithms" at CppCon 2016
 // a talk by Bryce Adelstein Lelbach
 
 #include <vector>
@@ -10,9 +10,9 @@
 #include <string_view>
 #include <string>
 
-bool is_word_beginning(char left, char right) 
-{ 
-	return std::isspace(left) && !std::isspace(right); 
+bool is_word_beginning(char left, char right)
+{
+	return std::isspace(left) && !std::isspace(right);
 }
 
 template <typename Policy>
