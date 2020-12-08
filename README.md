@@ -4,6 +4,8 @@ Tests with some parallel algorithms by Bartlomiej Filipek
 
 Modified for Linux by Kenji Rikitake
 
+For macOS, use GCC, not Clang.
+
 ## Original repository
 
 <https://github.com/fenbf/ParSTLTests>
